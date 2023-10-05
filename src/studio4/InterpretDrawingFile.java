@@ -20,5 +20,27 @@ public class InterpretDrawingFile {
 		File f = new File(chooser.getSelectedFile().getPath());
 		Scanner in = new Scanner(f); //making Scanner with a File
 		
+
+		
+		
+		
+		
+			
+		while(in.hasNextLine()) 
+		{
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		}
+		
+		
+		
 	}
 }
